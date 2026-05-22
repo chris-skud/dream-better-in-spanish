@@ -1,14 +1,19 @@
 {
   "episodes": [
     {
-      "id": "ds-20260512-girlhood-sisterhood-real-or-romanticized",
-      "title": "Girlhood/Sisterhood: Real or Romanticized?",
-      "published": "2026-05-12"
+      "id": "ds-20260519-what-would-happen-if-tourists-really-went-home",
+      "title": "What Would Happen If Tourists Really “Went Home”?",
+      "published": "2026-05-19"
     },
     {
-      "id": "why-is-culture-stuck",
-      "title": "Why is Culture Stuck?",
-      "published": "2026-04-21"
+      "id": "ds-20260414-dating-culture-in-latin-america",
+      "title": "Dating Culture in Latin America",
+      "published": "2026-04-14"
+    },
+    {
+      "id": "ds-20260331-dating-the-ai-the-end-of-human-relationhsips",
+      "title": "Dating the AI: The End of Human Relationhsips?",
+      "published": "2026-03-31"
     }
   ]
 }
